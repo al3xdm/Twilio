@@ -1,0 +1,16 @@
+<?php
+
+return array(
+    'twilio' => array(
+        /**
+         * The SID to for your Twilio account.
+         */
+        'sid' => '',
+
+        /**
+         * The token for your Twilio account.
+         */
+        'token' => '',
+
+    )
+);

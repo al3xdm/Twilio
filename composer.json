@@ -1,0 +1,19 @@
+{
+    "name": "al3xdm/twilio-zf2",
+    "description": "A Zend Framework 2 module for accessing the Twilio PHP Service",
+    "type": "library",
+    "keywords": [
+        "twilio",
+        "zf2"
+    ],
+    "homepage": "https://www.github.com/al3xdm/twilio-zf2",
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    },
+    "require": {
+        "php": ">=5.3",
+        "twilio/sdk": "3.*"
+    }
+}
