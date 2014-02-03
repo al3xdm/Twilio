@@ -4,5 +4,5 @@ return array(
     'Twilio\Module'                               => __DIR__ . '/Module.php',
     'Twilio\Options\Factory\ModuleOptionsFactory' => __DIR__ . '/src/Twilio/Options/Factory/ModuleOptionsFactory.php',
     'Twilio\Options\ModuleOptions'                => __DIR__ . '/src/Twilio/Options/ModuleOptions.php',
-    'Twilio\Service\Factory\TwilioServiceFactory' => __DIR__ . '/src/Twilio/Service/TwilioServiceFactory.php',
+    'Twilio\Service\Factory\TwilioServiceFactory' => __DIR__ . '/src/Twilio/Service/Factory/TwilioServiceFactory.php',
 );
