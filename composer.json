@@ -8,12 +8,18 @@
     ],
     "homepage": "https://www.github.com/al3xdm/twilio-zf2",
     "autoload": {
+        "psr-0": {
+            "Twilio": "src/"
+        },
         "classmap": [
             "./Module.php"
         ]
     },
     "require": {
         "php": ">=5.3",
-        "twilio/sdk": "3.*"
+        "twilio/sdk": "3.*",
+        "zendframework/zend-modulemanager": "2.*",
+        "zendframework/zend-servicemanager": "2.*",
+        "zendframework/zend-stdlib": "2.*"
     }
 }

@@ -19,7 +19,7 @@ class TwilioServiceFactory implements FactoryInterface
     /**
      * Generates the Item controller
      *
-     * @param  ServiceLocatorInterface $serviceLocator
+     * @param  ServiceLocatorInterface $serviceManager
      * @return Services_Twilio
      */
     public function createService(ServiceLocatorInterface $serviceManager)
