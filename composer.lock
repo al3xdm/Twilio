@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "bbd2222e9f5c59e4d8bee10dfd2e0e07",
+    "hash": "b1911004d85f9266e7c64bf93c539553",
     "packages": [
         {
             "name": "twilio/sdk",
