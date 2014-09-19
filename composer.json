@@ -1,12 +1,12 @@
 {
-    "name": "simon-barton/twilio-zf2",
+    "name": "al3xdm/twilio-zf2",
     "description": "A Zend Framework 2 module for accessing the Twilio PHP Service",
     "type": "library",
     "keywords": [
         "twilio",
         "zf2"
     ],
-    "homepage": "https://www.github.com/simon-barton/twilio-zf2",
+    "homepage": "https://www.github.com/al3xdm/twilio-zf2",
     "autoload": {
         "psr-0": {
             "Twilio": "src/"
